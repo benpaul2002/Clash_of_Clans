@@ -1,4 +1,4 @@
-# DASS Assignment 3.2
+# Clash of Clans
 
 # About the game
 
