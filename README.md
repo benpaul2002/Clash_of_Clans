@@ -1,10 +1,10 @@
 # Clash of Clans
 
-# About the game
+## About the game
 
 This is a terminal based game wherein you can choose to play as one of two character - the **King** or the **Archer Queen**. Upon game start, you are spawned just outside a village, consisting of several huts, a townhall, some defensive buildings - **Canons** and **Wizard Towers**. Your objective is to invade the village and destroy all the buildings inside. To help you accomplish this, you have several troops at your disposal - **Barbarians**, **Archers**, and **Balloons**. The game consists of 3 levels with each level being harder than the previous one.
 
-# Running the game
+## Running the game
 
 Go to the folder where the source code of the game is stored. Open a terminal at this path and run the following command -
 
@@ -14,7 +14,7 @@ If you wish to watch your replay, then run the following command -
 
 python replay.py
 
-# Playing the game
+## Playing the game
 
 Firstly, choose the character you wish to play by entering either 1 (for King) or 2 (for Archer Queen).
 
@@ -42,7 +42,7 @@ The King has the option to use 2 spells - **Rage** and **Heal**. To use these, p
 
 **Balloons** - Press one of ‘7’, ‘8’, or ‘9’ to spawn a balloon in one of 3 pre-determined locations on the map. You can spawn upto 3 balloons in each level.
 
-# Game Interface
+## Game Interface
 
 There is a small interface above the map which gives some useful information such as - 
 
